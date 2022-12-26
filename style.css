@@ -4,13 +4,14 @@ font-family: 'Montserrat Alternates';
 margin: 0;
 padding: 0;
 box-sizing: border-box;}
-body{
+body.anasayfa {
     background-image: url(/görseller/pexels-pixabay-260922.jpg);
     background-repeat: no-repeat;
     background-position: center ;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover; 
 }
+
 header{
        position: absolute;
        top: 0;
@@ -18,7 +19,9 @@ header{
        width: 100%;
        background-color:gray ;
        align-items: center;
-       padding: 15px 100px; 
+       padding: 15px 100px;
+       position: fixed;
+       
 }
 .logo{
     position: relative;
@@ -52,4 +55,16 @@ img{
     margin: 0;
     max-width: 100%;
     max-height: 100%;
+}
+nav.a{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;  
+  font-size: 35px;
+}
+body.Hakkımızda{
+    background-color:burlywood;
+}
+header.hakkımızda{
+    background-color:antiquewhite;
 }
