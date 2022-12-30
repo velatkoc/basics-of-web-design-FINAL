@@ -96,14 +96,7 @@ body.Hakkımızda{
 body.menü{
     background-color: black;
 }
-.nav1{
-    display: flex;
-    justify-content: center;
-    width: 1000px;
-    height: 100px;
-    color: white;
 
-}
 body.iletişim{
     background-color: black;
 }
@@ -118,4 +111,317 @@ body.iletişim{
     top: 33vh;
     font-size:20px;
     color: white;
+}
+body.başlangıçlar{
+    background-color:black;
+}
+.başlık4{
+    color: whitesmoke;
+    position: absolute;
+    top: 20vh;
+    font-size: 35px;
+}
+.paragraf3{
+    color: white;
+    position: absolute;
+    top: 29vh;
+}
+.görsel1{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+}
+.başlık5{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 50px;
+}
+.görsel2{
+    position: absolute;
+    top: 40vh;
+    margin-left: 60vh;
+}
+.başlık6{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left:60vh;
+}
+.görsel3{
+    position: absolute;
+    top: 40vh;
+    margin-left:120vh ;
+    height: 195px;
+    width: 250px;
+
+}
+.başlık7{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 131vh;
+}
+.paragraf4{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 120vh ;
+}
+.görsel4{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.başlık8{
+    position: absolute;
+    color: white;
+    top: 118vh;
+    margin-left: 25px;
+}
+.paragraf5{
+    position: absolute;
+    color: white;
+    top: 121vh;
+    margin-left: 10px;
+}
+.görsel5{
+    position: absolute;
+    color: white;
+    top: 90vh;
+    margin-left:60vh;
+    height: 195px;
+    width: 250px;
+
+}
+.başlık9{
+    position: absolute;
+    color: white;
+    top: 118vh;
+    margin-left:63vh;
+}
+.paragraf6{
+    position: absolute;
+    color: white;
+    top: 121vh;
+    margin-left: 60vh;
+}
+.görsel6{
+    position: absolute;
+    color: white;
+    top: 90vh;
+    margin-left:120vh;
+    height: 195px;
+    width: 250px;
+
+}
+.başlık10{
+    position: absolute;
+    color: white;
+    top: 118vh;
+    margin-left:125vh;
+}
+.paragraf7{
+    position: absolute;
+    color: white;
+    top: 121vh;
+    margin-left: 120vh;
+}
+.başlık11{
+    position: absolute;
+    color: white;
+    top: 75vh;
+    margin-left: 14vh;
+}
+.başlık12{
+    position: absolute;
+    color: white;
+    top: 75vh;
+    margin-left:75vh;
+}
+.başlık13{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left:135vh;
+}
+.başlık14{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:14vh;
+}
+.başlık15{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:75vh;
+}
+.başlık16{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:135vh;
+}
+.dimsum{
+    background-color: black;
+}
+.başlık17{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.paragraf8{
+    position:absolute;
+    top: 25vh;
+    color: white;
+
+}
+.görsel7{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.başlık18{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 75px; 
+}
+.paragraf9{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+.başlık19{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.görsel8{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+.başlık20{
+    position: absolute;
+    top: 67vh;
+    margin-left: 69vh;
+    color: white;
+}
+.paragraf10{
+    position: absolute;
+    top: 70vh;
+    margin-left: 62vh;
+    color: white;
+
+}
+.başlık21{
+    position: absolute;
+    top: 80vh;
+    margin-left: 75vh;
+    color: white;
+}
+.görsel9{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+.başlık22{
+    position: absolute;
+    top: 67vh;
+    margin-left: 127vh;
+    color: white;
+}
+.paragraf11{
+    position: absolute;
+    top: 70vh;
+    margin-left: 120vh;
+    color: white;
+}
+.başlık23{
+    position: absolute;
+    top: 80vh;
+    margin-left: 132vh;
+    color: white;
+}
+.görsel10{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.başlık24{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 28px;
+}
+.paragraf12{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 10px;
+}
+.başlık25{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:13vh;
+}
+.görsel11{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 62vh;
+}
+.başlık26{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:68vh;
+}
+.başlık27{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:75vh;
+}
+.görsel12{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 120vh;
+}
+.başlık28{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:126vh;
+}
+.paragraf13{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 120vh;
+}
+.başlık29{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:132vh;
 }
