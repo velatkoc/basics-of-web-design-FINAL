@@ -258,9 +258,6 @@ body.siyah{
     top: 130vh;
     margin-left:135vh;
 }
-.dimsum{
-    background-color: black;
-}
 .başlık17{
     position:absolute;
     top: 20vh;
@@ -2140,4 +2137,925 @@ body.siyah{
     color: white;
     top: 130vh;
     margin-left:132vh;
+}
+.b31{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.p16{
+    position:absolute;
+    top: 25vh;
+    color: white;
+}
+.g33{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b32{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 10px; 
+}
+.p17{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+.b33{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.g34{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+.b34{
+    position: absolute;
+    top: 67vh;
+    margin-left: 61vh;
+    color: white;
+}
+.p18{
+    position: absolute;
+    top: 70vh;
+    margin-left: 62vh;
+    color: white;
+}
+.b35{
+    position: absolute;
+    top: 80vh;
+    margin-left: 75vh;
+    color: white;
+}
+.g35{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+.b36{
+    position: absolute;
+    top: 67vh;
+    margin-left: 127vh;
+    color: white;
+}
+.p19{
+    position: absolute;
+    top: 70vh;
+    margin-left: 120vh;
+    color: white;
+}
+.b37{
+    position: absolute;
+    top: 80vh;
+    margin-left: 132vh;
+    color: white;
+}
+.g36{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b38{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 50px;
+}
+.p20{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 10px;
+}
+.b39{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:13vh;
+}
+.g37{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 62vh;
+}
+.b40{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:68vh;
+}
+.p21{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left:62vh;
+}
+.b41{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:75vh;
+}
+.g38{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 120vh;
+}
+.b42{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:126vh;
+}
+.p22{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 120vh;
+}
+.b43{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:132vh;
+}
+.b44{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.p23{
+    position:absolute;
+    top: 25vh;
+    color: white;
+}
+.g39{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b45{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 75px; 
+}
+.p24{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+.b46{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.g40{
+    position: absolute;
+    top: 40vh;
+    margin-left: 100vh;
+    height: 195px;
+    width: 250px;
+}
+.b47{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 108vh; 
+}
+.p25{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 100vh; 
+}
+.b48{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 112vh; 
+}
+.g41{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b49{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 28px;
+}
+.p26{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 10px;
+}
+.b50{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:13vh;
+}
+.g42{
+    position: absolute;
+    top: 90vh;
+    margin-left: 100vh;
+    height: 195px;
+    width: 250px;
+}
+.b51{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 105vh; 
+}
+.p27{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 100vh;
+}
+.b52{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:112vh;
+}
+.b53{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.p28{
+    position:absolute;
+    top: 25vh;
+    color: white;
+}
+.g43{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b54{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 50px; 
+}
+.p29{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+.b55{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.g44{
+    position: absolute;
+    top: 40vh;
+    margin-left: 100vh;
+    height: 195px;
+    width: 250px;
+}
+.b56{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 100vh; 
+}
+.p30{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 100vh; 
+}
+.b57{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 114vh; 
+}
+.b58{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.g45{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b59{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 10px; 
+}
+.p31{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+.b60{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.g46{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+.b61{
+    position: absolute;
+    top: 67vh;
+    margin-left: 65vh;
+    color: white;
+}
+.p32{
+    position: absolute;
+    top: 70vh;
+    margin-left: 62vh;
+    color: white;
+}
+.b62{
+    position: absolute;
+    top: 80vh;
+    margin-left: 75vh;
+    color: white;
+}
+.g47{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+.b63{
+    position: absolute;
+    top: 67vh;
+    margin-left: 127vh;
+    color: white;
+}
+.p33{
+    position: absolute;
+    top: 70vh;
+    margin-left: 120vh;
+    color: white;
+}
+.b64{
+    position: absolute;
+    top: 80vh;
+    margin-left: 132vh;
+    color: white;
+}
+.g48{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b65{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 50px;
+}
+.p34{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 10px;
+}
+.b66{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:13vh;
+}
+.g49{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 62vh;
+}
+.b67{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:72vh;
+}
+.p35{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left:62vh;
+}
+.b68{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:75vh;
+}
+.g50{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 120vh;
+}
+.b69{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:126vh;
+}
+.p36{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 120vh;
+}
+.b70{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:132vh;
+}
+.b71{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.g51{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b72{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 50px; 
+}
+.p37{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+.b73{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.g52{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+.b74{
+    position: absolute;
+    top: 67vh;
+    margin-left: 64vh;
+    color: white;
+}
+.p38{
+    position: absolute;
+    top: 70vh;
+    margin-left: 62vh;
+    color: white;
+}
+.b75{
+    position: absolute;
+    top: 80vh;
+    margin-left: 75vh;
+    color: white;
+}
+.g53{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+.b76{
+    position: absolute;
+    top: 67vh;
+    margin-left: 127vh;
+    color: white;
+}
+.p39{
+    position: absolute;
+    top: 70vh;
+    margin-left: 120vh;
+    color: white;
+}
+.b77{
+    position: absolute;
+    top: 80vh;
+    margin-left: 132vh;
+    color: white;
+}
+.g54{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b78{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 45px;
+}
+.p40{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 10px;
+}
+.b79{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:13vh;
+}
+.g55{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 62vh;
+}
+.b80{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:68vh;
+}
+.p41{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left:62vh;
+}
+.b81{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:75vh;
+}
+.g56{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 120vh;
+}
+.b82{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:120vh;
+}
+.p42{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 120vh;
+}
+.b83{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:132vh;
+}
+.b84{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.g57{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b85{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 50px; 
+}
+.p43{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px;
+}
+.b86{
+    position: absolute;
+    color: white;
+    top: 80vh;
+    margin-left: 90px; 
+}
+.g58{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+.b87{
+    position: absolute;
+    top: 67vh;
+    margin-left: 69vh;
+    color: white;
+}
+.p44{
+    position: absolute;
+    top: 70vh;
+    margin-left: 62vh;
+    color: white;
+}
+.b88{
+    position: absolute;
+    top: 80vh;
+    margin-left: 75vh;
+    color: white;
+}
+.g59{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+.b89{
+    position: absolute;
+    top: 67vh;
+    margin-left: 125vh;
+    color: white;
+}
+.p45{
+    position: absolute;
+    top: 70vh;
+    margin-left: 120vh;
+    color: white;
+}
+.b90{
+    position: absolute;
+    top: 80vh;
+    margin-left: 132vh;
+    color: white;
+}
+.g60{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b91{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 40px;
+}
+.p46{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 10px;
+}
+.b92{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:13vh;
+}
+.g61{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 62vh;
+}
+.b93{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:66vh;
+}
+.p47{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left:62vh;
+}
+.b94{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:75vh;
+}
+.g62{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 120vh;
+}
+.b95{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:121vh;
+}
+.p48{
+    position: absolute;
+    color: white;
+    top: 120vh;
+    margin-left: 120vh;
+}
+.b96{
+    position: absolute;
+    color: white;
+    top: 130vh;
+    margin-left:132vh;
+}
+.b97{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+}
+.g63{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b98{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 10px; 
+}
+.b99{
+    position: absolute;
+    color: white;
+    top: 74vh;
+    margin-left: 90px; 
+}
+.g64{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+.b100{
+    position: absolute;
+    top: 67vh;
+    margin-left: 61vh;
+    color: white;
+}
+.b101{
+    position: absolute;
+    top: 74vh;
+    margin-left: 75vh;
+    color: white;
+}
+.g65{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+.b102{
+    position: absolute;
+    top: 67vh;
+    margin-left: 127vh;
+    color: white;
+}
+.b103{
+    position: absolute;
+    top: 74vh;
+    margin-left: 132vh;
+    color: white;
+}
+.g66{
+    position: absolute;
+    top: 90vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+.b104{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left: 64px;
+}
+.b105{
+    position: absolute;
+    color: white;
+    top: 124vh;
+    margin-left:13vh;
+}
+.g67{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 62vh;
+}
+.b106{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:72vh;
+}
+.b107{
+    position: absolute;
+    color: white;
+    top: 124vh;
+    margin-left:75vh;
+}
+.g68{
+    position: absolute;
+    top: 90vh;
+    height: 195px;
+    width: 250px;
+    margin-left: 120vh;
+}
+.b108{
+    position: absolute;
+    color: white;
+    top: 117vh;
+    margin-left:127vh;
+}
+.b109{
+    position: absolute;
+    color: white;
+    top: 124vh;
+    margin-left:131vh;
 }
