@@ -14,7 +14,7 @@ header{
        align-items: center;
        padding: 10px 100px;
        position: fixed;
-       
+        z-index: 100;       
        
 }
 .logo{
@@ -28,16 +28,19 @@ header{
     justify-content: center;
     width: 1000px;
     height: 100px;
-}
-li {
+}   
+header li {
     list-style: none;
     margin: 80px;
 }
-li a{
+header li a{
     text-decoration: none;
     color: white;
     position: absolute;
     top: 50px;
+}
+header li a:hover{
+    color: gold;
 }
 .anasayfa{
     width: 1920px;
@@ -3058,4 +3061,203 @@ body.siyah{
     color: white;
     top: 124vh;
     margin-left:131vh;
+}
+.nav1{
+    position: absolute;
+    top: 16%;
+    left: 0;
+    background-color: black;
+    width: 450px;
+    height: 615px;
+}
+.sol{
+    width: 150px;
+    height: 100%;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+.orta{
+
+    width: 150px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 33%;
+}
+.nav1 ul{
+
+    width: 100%;
+    height: 615px;
+    list-style: none;
+}
+.nav1 li{
+
+    color: black;
+    padding: 17px;
+}
+.nav1 li a:hover{
+    color: aqua;
+}
+.nav1 li a{
+
+    color: white;
+    text-decoration: none;
+}
+.form-kutu{
+    background-color: darkblue;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 18%;
+    left: 29%;
+    border-radius: 20px;
+}
+.form{
+    position: absolute;
+    border-radius: 20px;
+    z-index: 10;
+    padding: 50px 40px;
+    display: flex;
+    flex-direction: column;
+}
+.info p{
+    color: white;
+}
+.form h2{
+
+    text-align: center;
+    color: aqua;
+}
+.form1{
+    position: relative;
+    width: 200px;
+    margin-top: 35px;
+}
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+    padding: 20px 10px 10px;
+    border: none;
+    outline: none;
+    color: #23242a;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+}
+.leftdiv{
+    position: absolute;
+    top: 155px;
+    left: 50%;
+}
+#ortala{
+    padding-left: 28%;
+}
+#ortala input{
+    padding-top: 12px;
+    width: 150px;
+    font-size: 18px;
+}
+label{
+    color: white;
+}
+#footer{
+    width: 100%;
+    height: 140px;
+    background-color:darkgrey;
+    position:absolute;
+    top: 140vh;
+}
+#footerd1{
+    position: absolute;
+    margin-left: 25vh;
+    bottom: 0;
+    color: white;
+}
+#footerd2{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: white;
+    
+}
+#footerd2 a{
+    padding-right:10px;
+}
+#footerd{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+#logo{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    top:0;
+}
+#a1{
+    position:absolute;
+    top: 20vh;
+    font-size: 35px;
+    color: white;
+
+}
+#g1{
+    position: absolute;
+    top: 40vh;
+    margin-left: 10px;
+    height: 195px;
+    width: 250px;
+}
+#a2{
+    position: absolute;
+    color: white;
+    top: 67vh;
+    margin-left: 75px; 
+}
+#p1{
+    position: absolute;
+    color: white;
+    top: 70vh;
+    margin-left: 10px; 
+}
+#ğ2{
+    position: absolute;
+    top: 40vh;
+    margin-left: 62vh;
+    height: 195px;
+    width: 250px;
+}
+#a3{
+    position: absolute;
+    top: 67vh;
+    margin-left: 76vh;
+    color: white;
+}
+#p2{
+    position: absolute;
+    top: 70vh;
+    margin-left: 62vh;
+    color: white;
+}
+#g3{
+    position: absolute;
+    top: 40vh;
+    margin-left: 120vh;
+    height: 195px;
+    width: 250px;
+}
+#a4{
+    position: absolute;
+    top: 67vh;
+    margin-left: 127vh;
+    color: white;
+}
+#p3{
+    position: absolute;
+    top: 70vh;
+    margin-left: 120vh;
+    color: white;
 }
